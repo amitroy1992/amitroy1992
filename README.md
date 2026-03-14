@@ -69,7 +69,7 @@ My goal is to transition into a **Data Analyst or Business Intelligence role** w
 
 ## Connect With Me
 
-LinkedIn: https://linkedin.com
+LinkedIn: https://www.linkedin.com/in/amit-roy-101a60111/
 GitHub: https://github.com/amitroy1992
 
 ---
