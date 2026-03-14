@@ -4,61 +4,74 @@ Data Analyst | Business Intelligence | Data Visualization
 
 📍 Kolkata, India
 
+I am a data enthusiast with experience in **SQL, Power BI, Tableau, Excel, and Data Analytics**.
+Currently transitioning into a **Data Analyst / Business Intelligence role** and building real-world data projects to solve business problems using data-driven insights.
+
+---
+
+## GitHub Stats
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitroy1992\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy1992\&layout=compact\&theme=tokyonight)
+
 ---
 
 ## Skills
 
-- SQL
-- Power BI
-- Tableau
-- Excel
-- Data Analysis
-- Business Intelligence
-- Dashboard Development
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-purple)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Reporting-red)
 
 ---
 
 ## Featured Projects
 
-📊 **Retail Sales Dashboard (Power BI)**  
-Interactive dashboard analyzing sales performance across products, countries and segments.
+### 📊 Retail Sales Dashboard (Power BI)
 
-📈 **Marketing Campaign Performance Analysis (BCG Simulation)**  
-Analyzed multi-channel marketing campaign data to identify the best strategy for acquiring new customers.
+Interactive dashboard analyzing retail sales performance across countries, products, and customer segments to generate business insights.
 
-📉 **Retail Sales Visualization (Tata Simulation)**  
-Created Tableau dashboards to analyze sales and customer trends.
+### 📈 Marketing Campaign Performance Analysis (BCG Simulation)
 
-🍽 **Roy's Kitchen Sales Dashboard**  
-Analyzed restaurant sales data using Power BI to track performance and business insights.
+Analyzed multi-channel marketing campaign data (Email, Instagram, Web Banner) to determine the most effective strategy for acquiring new customers.
+
+Key Insight:
+**Email + Campaign A generated the highest new customer sales.**
+
+### 📉 Retail Sales Visualization (Tata Simulation)
+
+Built Tableau dashboards to analyze sales performance and identify key business trends.
+
+### 🍽 Roy's Kitchen Sales Dashboard
+
+Power BI dashboard analyzing restaurant sales data to track revenue trends and improve business performance.
 
 ---
 
 ## Currently Learning
 
-- Advanced SQL
-- Power BI
-- Data Analytics
-- Business Intelligence
+* Advanced SQL
+* Power BI
+* Data Analytics
+* Business Intelligence
+* Data Visualization
 
 ---
 
 ## Goal
 
-Transitioning into a **Data Analyst / Business Intelligence role** focused on solving business problems using data.
+My goal is to transition into a **Data Analyst or Business Intelligence role** where I can leverage data to solve real-world business problems and support strategic decision-making.
 
+---
 
-<!--
-**amitroy1992/amitroy1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect With Me
 
-Here are some ideas to get you started:
+LinkedIn: https://linkedin.com
+GitHub: https://github.com/amitroy1992
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=amitroy1992\&color=blue)
