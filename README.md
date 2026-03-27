@@ -11,11 +11,11 @@ Currently transitioning into a **Data Analyst / Business Intelligence role** and
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitroy1992&show_icons=true&theme=tokyonight)
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitroy1992&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy1992&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy1992&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitroy1992&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=amitroy1992&theme=tokyonight)
 
 ---
 
