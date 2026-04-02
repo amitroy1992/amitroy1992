@@ -47,9 +47,15 @@ Key Insight:
 
 Built Tableau dashboards to analyze sales performance and identify key business trends.
 
-### 🍽 Roy's Kitchen Sales Dashboard
+### 🍽 Roy's Kitchen Sales Dashboard (Power BI + Excel)
 
 Power BI dashboard analyzing restaurant sales data to track revenue trends and improve business performance.
+
+### 📊 Loan Approval Analysis Dashboard (SQL + Python + Power BI)
+
+A complete end-to-end Data Analytics project using Power BI,SQL and Python focused on analyzing loan approval patterns and deriving business insights.
+
+
 
 ---
 
