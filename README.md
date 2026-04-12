@@ -1,65 +1,72 @@
-# Hi, I'm Amit Roy 👋
+# 👋 Hi, I'm Amit Roy
 
-Data Analyst | Business Intelligence | Data Visualization
+**Data Analyst | Business Intelligence | Power BI | SQL**
 
 📍 Kolkata, India
 
-I am a data enthusiast with experience in **SQL, Power BI, Tableau, Excel, and Data Analytics**.
-Currently transitioning into a **Data Analyst / Business Intelligence role** and building real-world data projects to solve business problems using data-driven insights.
+I am a data-driven professional with experience in **SQL, Power BI, Tableau, Excel, and Data Analytics**.
+Currently transitioning into a **Data Analyst / Business Intelligence role**, building real-world projects focused on solving business problems using data-driven insights.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitroy1992&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitroy1992\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy1992&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy1992\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amitroy1992&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=amitroy1992\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## Skills
+## 🛠 Skills
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 ![Excel](https://img.shields.io/badge/Excel-Analytics-green)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-purple)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-lightblue)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Reporting-red)
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### 📊 Retail Sales Dashboard (Power BI)
+### 🍽 Roy's Kitchen – Sales Analytics Dashboard (Power BI)
 
-Interactive dashboard analyzing retail sales performance across countries, products, and customer segments to generate business insights.
-
-### 📈 Marketing Campaign Performance Analysis (BCG Simulation)
-
-Analyzed multi-channel marketing campaign data (Email, Instagram, Web Banner) to determine the most effective strategy for acquiring new customers.
-
-Key Insight:
-**Email + Campaign A generated the highest new customer sales.**
-
-### 📉 Retail Sales Visualization (Tata Simulation)
-
-Built Tableau dashboards to analyze sales performance and identify key business trends.
-
-### 🍽 Roy's Kitchen Sales Dashboard (Power BI + Excel)
-
-Power BI dashboard analyzing restaurant sales data to track revenue trends and improve business performance.
-
-### 📊 Loan Approval Analysis Dashboard (SQL + Python + Power BI)
-
-A complete end-to-end Data Analytics project using Power BI,SQL and Python focused on analyzing loan approval patterns and deriving business insights.
-
-
+Built an interactive Power BI dashboard to analyze restaurant sales performance, track revenue trends, and generate business insights.
+Included **MoM growth analysis, AI insights, and risk indicators**.
 
 ---
 
-## Currently Learning
+### 📊 Loan Approval Analysis Dashboard (SQL + Python + Power BI)
+
+End-to-end data analytics project analyzing loan approval patterns using SQL, Python, and Power BI to derive actionable insights.
+
+---
+
+### 📊 Retail Sales Dashboard (Power BI)
+
+Interactive dashboard analyzing sales performance across regions, products, and customer segments.
+
+---
+
+### 📈 Marketing Campaign Performance Analysis (BCG Simulation)
+
+Analyzed multi-channel campaign data (Email, Instagram, Web Banner) to identify the most effective strategy.
+
+**Key Insight:**
+Email + Campaign A generated the highest new customer sales.
+
+---
+
+### 📉 Retail Sales Visualization (Tata Simulation)
+
+Built Tableau dashboards to identify trends and business opportunities from retail data.
+
+---
+
+## 📚 Currently Learning
 
 * Advanced SQL
 * Power BI
@@ -69,17 +76,19 @@ A complete end-to-end Data Analytics project using Power BI,SQL and Python focus
 
 ---
 
-## Goal
+## 🎯 Career Goal
 
-My goal is to transition into a **Data Analyst or Business Intelligence role** where I can leverage data to solve real-world business problems and support strategic decision-making.
+To secure a **Data Analyst / Business Intelligence role** where I can leverage data to drive business decisions and solve real-world problems.
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/amit-roy-101a60111/
-GitHub: https://github.com/amitroy1992
+* 💼 LinkedIn: https://www.linkedin.com/in/amit-roy-101a60111/
+* 💻 GitHub: https://github.com/amitroy1992
 
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=amitroy1992\&color=blue)
+
+---
